@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br /><br /><br />
+<script src="~/Scripts/jquery-2.2.1.min.js"></script>
+<script src="~/Scripts/knockout-3.4.0.js"></script>
+<script src="~/Scripts/knockout.mapping-latest.js"></script>
+
+<div class="row">
+    <div class="col-md-6 form-inline">
+        <div class="form-group has-success has-feedback">
+            <label class="control-label" for="inputGroupSuccess3">Twitter Name: </label>
+            <div class="input-group">
+                <span class="input-group-addon">@@</span>
+                <input type="text" class="form-control" id="txtTwitterName" aria-describedby="inputGroupSuccess3Status">
+            </div>
+            <button type="submit" id="btn" class="btn btn-info glyphicon glyphicon-search"></button>
+        </div>
+    </div>
+</div>
+
+<br />
+
+<ul class="center-block list-group" data-bind="foreach:viewModel" id="listem">
+    <li class="list-group-item"><span data-bind="text:Body"></span></li>
+</ul>
+
+<button type="submit" id="saveDb" class="btn btn-warning hidden center-block">Save Tweets</button><br />
+<span id="saveDbSuccess"class="label label-success hidden center-block" >Tweets are saved successfuly!</span>
+
+<script>
+
+    //Binding için custom view model.
+    function ViewModel() {
+        var self = this;
+        self.data = ko.observableArray();
+    };
+
+    //Ajax içerisinde kullanabilmek için değişkene atandı.
+    var viewModel = new ViewModel();
+    
+    
+    ko.applyBindings(viewModel);
+
+
+    tweets = new Object();
+
+    $(document).ready(function () {
+        //Tweet controller'dan gelen json data objesine atanıyor.
+        $("#btn").click(function () {
+            $.getJSON("/Tweet/GetTweetsJson/?uname=" + $("#txtTwitterName").val(), function (data) { 
+                tweets = data
+                $("#saveDb").removeClass("hidden"); //Tweet'leri kaydetmek için düğme gösteriliyor.
+                
+                viewModel.data(data); //Jquery'den dönen nesne view model'a yollanıyor.
+            });
+        });
+
+
+        //Tweet Controller'da tweetleri kaydeden fonksiyon çağırılıyor.
+        $("#saveDb").click(function () {
+            $.get("/Tweet/SaveTweets/?uname=" + $("#txtTwitterName").val(), function (data, status) {
+                $("#saveDb").removeClass("btn-warning");
+                $("#saveDb").addClass("btn-success");
+                $("#saveDbSuccess").removeClass("hidden");
+            });
+        });
+    });
+</script>

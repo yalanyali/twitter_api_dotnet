@@ -1,0 +1,114 @@
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\TwitterProject.dll.config
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\TwitterProject.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\TwitterProject.pdb
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\EntityFramework.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\EntityFramework.SqlServer.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Helpers.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Mvc.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Razor.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.Deployment.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.Razor.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\EntityFramework.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\EntityFramework.SqlServer.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Helpers.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Mvc.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Razor.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.Deployment.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.WebPages.Razor.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\obj\Debug\TwitterProject.csprojResolveAssemblyReference.cache
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\obj\Debug\TwitterProject.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\obj\Debug\TwitterProject.pdb
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Antlr3.Runtime.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Newtonsoft.Json.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Optimization.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\WebGrease.dll
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Antlr3.Runtime.pdb
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\Newtonsoft.Json.xml
+c:\users\dnzys\documents\visual studio 2013\Projects\TwitterProject\TwitterProject\bin\System.Web.Optimization.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\Projects\TwitterProject\TwitterProject\bin\Hammock.ClientProfile.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\Projects\TwitterProject\TwitterProject\bin\TweetSharp.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\Projects\TwitterProject\TwitterProject\bin\Hammock.ClientProfile.pdb
+C:\Users\dnzys\Documents\Visual Studio 2013\Projects\TwitterProject\TwitterProject\bin\TweetSharp.pdb
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\TwitterProject.dll.config
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\TwitterProject.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\TwitterProject.pdb
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Antlr3.Runtime.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\EntityFramework.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\EntityFramework.SqlServer.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Newtonsoft.Json.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.Helpers.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.Mvc.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.Optimization.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.Razor.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.WebPages.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\TweetSharp.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\WebGrease.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Antlr3.Runtime.pdb
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\EntityFramework.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\EntityFramework.SqlServer.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Newtonsoft.Json.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.Helpers.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.Mvc.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.Optimization.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.Razor.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.WebPages.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\TweetSharp.pdb
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\obj\Debug\TwitterProject.csprojResolveAssemblyReference.cache
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\obj\Debug\TwitterProject.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\obj\Debug\TwitterProject.pdb
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Hammock.dll
+C:\Users\dnzys\Documents\Visual Studio 2013\OLDPROJECTS\TwitterProject\TwitterProject\bin\Hammock.pdb
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\TwitterProject.dll.config
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\TwitterProject.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\TwitterProject.pdb
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Antlr3.Runtime.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\EntityFramework.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\EntityFramework.SqlServer.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Hammock.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Newtonsoft.Json.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.Helpers.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.Mvc.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.Optimization.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.Razor.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.WebPages.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\TweetSharp.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\WebGrease.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Antlr3.Runtime.pdb
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\EntityFramework.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\EntityFramework.SqlServer.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Hammock.pdb
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\Newtonsoft.Json.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.Helpers.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.Mvc.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.Optimization.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.Razor.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.WebPages.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\bin\TweetSharp.pdb
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\obj\Debug\TwitterProject.csprojResolveAssemblyReference.cache
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\obj\Debug\TwitterProject.dll
+C:\Users\dnzys\Desktop\TwitterProject2\TwitterProject\obj\Debug\TwitterProject.pdb
