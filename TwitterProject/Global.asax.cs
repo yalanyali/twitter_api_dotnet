@@ -15,7 +15,7 @@ namespace TwitterProject
         {
             //using (DenizContext db = new DenizContext())
             //{
-            //    //Bu metod, eğer veritabanımız oluşturulmamış ise, oluşturulmasını sağlıyor.
+            //    //Bu metod, eğer veritabanımız oluşturulmamış ise, oluşturulmasını sağlıyor
             //    db.Database.CreateIfNotExists();
             //}
             System.Data.Entity.Database.SetInitializer(new TwitterProject.Models.DenizInitializer());
