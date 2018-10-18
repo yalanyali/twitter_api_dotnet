@@ -32,13 +32,13 @@
 
 <script>
 
-    //Binding için custom view model.
+    // Binding için custom view model.
     function ViewModel() {
         var self = this;
         self.data = ko.observableArray();
     };
 
-    //Ajax içerisinde kullanabilmek için değişkene atandı.
+    // Ajax içerisinde kullanabilmek için değişkene atandı.
     var viewModel = new ViewModel();
     
     
@@ -48,18 +48,18 @@
     tweets = new Object();
 
     $(document).ready(function () {
-        //Tweet controller'dan gelen json data objesine atanıyor.
+        // Tweet controller'dan gelen json data objesine atanıyor.
         $("#btn").click(function () {
             $.getJSON("/Tweet/GetTweetsJson/?uname=" + $("#txtTwitterName").val(), function (data) { 
                 tweets = data
-                $("#saveDb").removeClass("hidden"); //Tweet'leri kaydetmek için düğme gösteriliyor.
+                $("#saveDb").removeClass("hidden"); // Tweet'leri kaydetmek için düğme gösteriliyor.
                 
-                viewModel.data(data); //Jquery'den dönen nesne view model'a yollanıyor.
+                viewModel.data(data); // Jquery'den dönen nesne view model'a yollanıyor.
             });
         });
 
 
-        //Tweet Controller'da tweetleri kaydeden fonksiyon çağırılıyor.
+        // Tweet Controller'da tweetleri kaydeden fonksiyon çağırılıyor.
         $("#saveDb").click(function () {
             $.get("/Tweet/SaveTweets/?uname=" + $("#txtTwitterName").val(), function (data, status) {
                 $("#saveDb").removeClass("btn-warning");
